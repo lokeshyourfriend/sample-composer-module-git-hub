@@ -2,7 +2,7 @@
    "name": "lokeshyourfriend/sample-composer-module-git-hub",
    "description": "A module created for using to install using composer and github",
    "type": "magento2-module",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "license": [
      "OSL-3.0"
    ],
